@@ -2,6 +2,15 @@
 
 ### **Overview**
 This repository highlights my ability to perform **Data Analysis** and **Dashboard Creation** using **Power BI**. It contains a dataset based on sales performance, customer, and product profitability, cleaned and transformed for analysis. The project focuses on showcasing my skills in **data cleaning**, **data visualization**, and **interactive dashboards**.
+### **Screenshots**
+Here are a few screenshots of the Power BI dashboards:
+
+1. **Sales Performance Dashboard**  
+![image](https://github.com/user-attachments/assets/fabfb747-3853-4460-94e9-50e8f28d1b7e)
+
+
+2. **Customer & Product Analysis Dashboard**  
+![image](https://github.com/user-attachments/assets/32d4e77d-4c79-4577-9f85-e35d86873387)
 
 ### **Dataset Details**
 The original dataset contains the following columns:
@@ -71,19 +80,6 @@ The **Power BI dashboards** are designed to be highly interactive:
 - **Slicers**: Allow filtering by time range, departments, sales channels, etc.
 - **Dynamic Charts**: Adjust based on slicer selections to give users an intuitive exploration experience.
 - **Charts Used**: Pie charts, stacked bar charts, line graphs, tree maps, clustered bar charts, and more.
-
----
-
-### **Screenshots**
-Here are a few screenshots of the Power BI dashboards:
-
-1. **Sales Performance Dashboard**  
-![image](https://github.com/user-attachments/assets/fabfb747-3853-4460-94e9-50e8f28d1b7e)
-
-
-2. **Customer & Product Analysis Dashboard**  
-![image](https://github.com/user-attachments/assets/32d4e77d-4c79-4577-9f85-e35d86873387)
-
-
+  
 ---
 
